@@ -1,8 +1,9 @@
 console.log('js');
 
-var app = angular.module('ApiApp', []);
+var app = angular.module('StarWarsApp', []);
 
-app.controller('ApiController', ['$http', function($http) {
+app.controller('StarWarsController', ['$http', function ($http) {
+    console.log('ng');
     var self = this;
-    self.message='Hi there!';
+    self.message = 'Hi there!';
 }]);
