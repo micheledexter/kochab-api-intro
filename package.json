@@ -1,0 +1,24 @@
+{
+  "name": "kochab-api-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheledexter/kochab-api-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheledexter/kochab-api-intro/issues"
+  },
+  "homepage": "https://github.com/micheledexter/kochab-api-intro#readme",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "express": "^4.16.3"
+  }
+}
